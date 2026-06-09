@@ -100,4 +100,4 @@ jupyter notebook BF_LUBS_Sales_Portfolio.ipynb
 
 ## 👤 Autor
 
-Feito por **[Seu Nome]** · [LinkedIn](https://linkedin.com/in/leonardo-pacheco-pereiraabc) · [GitHub](https://github.com/Leopachecop)
+Feito por **[Leonardo Pacheco Pereira]** · [LinkedIn](https://linkedin.com/in/leonardo-pacheco-pereiraabc) · [GitHub](https://github.com/Leopachecop)
