@@ -35,7 +35,7 @@ Entre 2018 e 2024, a empresa registrou uma **queda expressiva no volume de venda
  ┣ 📓 BF_LUBS_Sales_Portfolio.ipynb   # Notebook principal com a análise completa
  ┣ 📄 README.md
  ┗ 📁 data/
-    ┗ BF_LUBS_Sales.csv               # Base de dados utilizada
+    ┗ BF_LUBS_Sales.rar (A base de dados teve de ser compactada.)              # Base de dados utilizada
 ```
 
 ---
